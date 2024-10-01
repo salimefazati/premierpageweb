@@ -1,17 +1,40 @@
-h1{color: rgb(127, 217, 255);}
+h1{color: rgb(127, 217, 255);font-style text-decoration: underline; text-align}
+a{
+
+    text-align: center;
+    font-family: 3,5em;
+    color: #a5d4fc;
+}
+
+
+ 
 p{
     color: lightcoral;
 }
 h2{color: brown;}
 .maclasse{color: blueviolet;}
 p{
+
     color: black;
-    font-size: 20px;
+    font: size 1.1em;
+
     padding-left: 15;
     padding-right: 15;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-    font-family:roboto,sans-serif;
+    font-family:manrope,sans-serif;
 }
 body{background-color: hsl(248, 100%, 97%);}
-h1{font-style; text-decoration: underline; text-align}
+li{font-size: 1em;font-family:} 
+a{font-size: 1em; font-family: manrope;text-decoration:none}
+.mabordure{
+    padding: 30px;
+    background-color: #a5d4fc; /* couleur du fond*/
+    border: solid royalblue double; /*couleur arriére plant*/
+    border-top: 3px #eb5; /* droite*/
+    border-right: 15px #FE2 solid;/*bas*/
+    border-bottom: 20px firebrick solid; /*gauche*/
+    border-left: 5PX yellowgreen dashed; /* definis la taile*/
+    border-radius: 10px 10px 10px;
+
+}
