@@ -1,8 +1,21 @@
-nav ol{ list-style-type: none;
-nav li{ display: inline-block;
+nav ol{
+list-style-type: none;
+border-bottom: 10px;
+border-bottom-style: double;
+border-color: hotpink;
 }
 
-}
+
 li{
-    background-color: bisque;
+    display: inline-block;
+    padding: 5px; 
+}
+body{
+    background-color: indianred;
+}
+h1{
+    text-align: initial;
+}
+footer{
+    background-color: cadetblue;
 }
