@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr"> 
+<head>
+<meta charset="UTF-8">
+     <title>barre de nav</title>
+     <link href="nav.css" rel="stylesheet"/>
+    </head>
+    <body>
+                <h1>la vie en rose</h1>
+            <P> le solei permet de nous ébouillir mais a la fois etre notre plus grand crainte</P>
+            
+</nav>
+        <ol>
+            <li><a href="#aceuil">autre page</a></li>
+            <li><a href="#merci de votre passage">aprécier</a></li>
+        </li><a href="#hello"> plus d'option"> </a></li>
+ </ol>
+    </nav>
+            
+     </body>
+</html>
