@@ -1,0 +1,13 @@
+p{
+    display: inline;
+}
+#texterea{
+    display: block;
+}
+fieldset{background-color: #72af72;
+
+}
+legend{
+    border: 1px solid black;
+    background-color: indianred;
+}
